@@ -1,0 +1,9 @@
+{
+	"id": "pocketbook-annotation-importer",
+	"name": "Pocketbook Annotation Importer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Imports the annotations from your Pocketbook notes into Obsidian",
+	"author": "goop",
+	"isDesktopOnly": true
+}
